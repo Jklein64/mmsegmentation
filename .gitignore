@@ -117,3 +117,6 @@ mmseg/.mim
 
 # Pytorch
 *.pth
+
+# MacOS
+.DS_Store
